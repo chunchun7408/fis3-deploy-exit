@@ -1,0 +1,22 @@
+{
+  "name": "fis3-deploy-exit",
+  "version": "1.0.0",
+  "description": "fis3 plugin of process exit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chunchun7408/fis3-deploy-exit.git"
+  },
+  "keywords": [
+    "fis3"
+  ],
+  "author": "hanyingchun <chunchun7408@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chunchun7408/fis3-deploy-exit/issues"
+  },
+  "homepage": "https://github.com/chunchun7408/fis3-deploy-exit#readme"
+}
